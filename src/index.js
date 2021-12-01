@@ -2,13 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 // import './index.css';
 import Demo1 from './components/Demo1.jsx';
+import Demo2 from './components/Demo2.jsx';
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <Demo1 />
+    <Demo2 />
   </React.StrictMode>,
   document.getElementById('root')
 );
