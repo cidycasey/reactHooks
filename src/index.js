@@ -1,16 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 // import './index.css';
-// import Demo1 from './components/Demo1.jsx';
-// import Demo2 from './components/Demo2.jsx';
-import Demo3 from './components/Demo3.jsx';
+import Demo from './components/demo4/Demo4.jsx';
+// import Demo from './components/Demo3.jsx';
 // import App from './App';
 // import reportWebVitals from './reportWebVitals';
 
 
 ReactDOM.render(
   <React.StrictMode>
-    <Demo3 />
+    <Demo />
   </React.StrictMode>,
   document.getElementById('root')
 );
