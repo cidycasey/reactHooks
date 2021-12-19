@@ -1,6 +1,6 @@
 # React Hooks
 
-![1639573230724](images/1639573230724.png)
+<img src="images/1639573230724.png" alt="1639573230724" style="zoom: 67%;" />
 
 ## useState
 
@@ -24,3 +24,7 @@
 ## useContext
 
 - 怎么传多个变量，传数组
+
+## useReducer
+
+- useContext共享状态；useReducer处理逻辑 =》实现Redux效果    demo6

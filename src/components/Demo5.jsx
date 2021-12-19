@@ -8,7 +8,7 @@ function Demo5() {
             case 'sub':
                 return state - 1;        
             default:
-                break;
+                return state;
         }
     }, 0);
     return(<div>
